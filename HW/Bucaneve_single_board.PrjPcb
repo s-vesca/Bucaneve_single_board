@@ -184,6 +184,10 @@ Variation5=Designator=C?|UniqueId=\LMXNXTYN\YSIAZZOH|Kind=1|AlternatePart=
 Variation6=Designator=R400|UniqueId=\HDZDUPBF\CYERQQVZ|Kind=1|AlternatePart=
 ParamVariationCount=0
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Bucaneve_single_board\Design Rule Check - Bucaneve_single_board.html
+DItemRevisionGUID=
+
 [Parameter1]
 Name=ProjectApproved
 Value=--- Approved ---
